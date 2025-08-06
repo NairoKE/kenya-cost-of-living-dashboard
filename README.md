@@ -173,9 +173,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For any queries or suggestions, please reach out to:
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: [Ian Njoroge](https://www.linkedin.com/in/ian-njoroge-0252aa70/)
 
 ---
 Built with ❤️ for Kenya 🇰🇪
